@@ -29,8 +29,8 @@ Nos encantaría contar con tu ayuda para mejorar FAQuality. Aquí tienes algunas
 ## 👨‍👩‍👧‍👦 Sobre nosotros
 Somos dos estudiantes apasionados por la programación y el desarrollo web. Este plugin es el fruto de nuestro esfuerzo, aprendizaje y dedicación. Aunque comenzó como un proyecto de práctica, se ha convertido en una herramienta sólida y funcional.
 
+<!-- 
 ## 🍿 Dato curioso
-¿Sabías que nuestro equipo de desarrollo consume una cantidad alarmante de café mientras trabaja en FAQuality? ¡Creemos que el secreto de nuestro código está en la cafeína!
-
+-->
 
 ¡Esperamos ver tus contribuciones pronto!
