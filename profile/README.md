@@ -1,5 +1,4 @@
 # FAQuality - Plugin de FAQ para WordPress
-=====================================================
 
 ## 🙋‍♀️ Introducción
 Bienvenido a FAQuality, una organización dedicada al desarrollo de un plugin de FAQ (Preguntas Frecuentes) para WordPress. Nuestro objetivo es proporcionar una solución robusta y fácil de usar para gestionar y mostrar preguntas frecuentes en sitios web de WordPress.
